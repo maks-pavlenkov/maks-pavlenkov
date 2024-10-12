@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maks Pavlenkov</h1>
-<h3 align="center">A passionate backend developer from Russia</h3>
+<h3 align="center">Backend developer from Russia</h3>
 
 - 🔭 I’m currently working at **Sber**
 
@@ -7,7 +7,7 @@
 
 - 💬 Have made some projects using **Drf, fastApi, flask, docker**
 
-- 📫 How to reach me **https://t.me/PeopleEdm9**
+- 📫 How to reach me **https://t.me/PeopleEdm998**
 
 - 📄 Know about my experiences [https://hh.ru/resume/63341b65ff086540720039ed1f654d61443533](https://hh.ru/resume/63341b65ff086540720039ed1f654d61443533)
 
